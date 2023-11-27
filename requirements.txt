@@ -1,0 +1,9 @@
+transformers
+sentence-transformers
+openai
+llama-index
+langchain
+chromadb
+pypdf
+torch
+python-dotenv
