@@ -4,13 +4,11 @@
 
 #### Installations
 
-If you already have Conda setup, run 
+If you already have Conda setup, run the below command in the root directory to set up the environment
 
 ```
 make -f Makefile
 ```
-
-in the root directory to set up the environment
 
 #### Install the Python packages 
 
@@ -32,3 +30,5 @@ ollama run llama2
 - TODO
 #### ChromaDB 
 - Vector Database
+
+Create a database of PDFs (we've used some chapters from Artificial Intelligence: A Modern Approach) and save it in a directory 'data' at the root of this project. This creates a private knowledge database for the LLM
