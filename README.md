@@ -4,11 +4,22 @@
 
 #### Installations
 
-### If you already have Conda setup, run make -f Makefile in the root directory to set up the environment
-### Install the pip packages with pip install -r requirements.txt to install all the necessary python packages to run this project
+If you already have Conda setup, run 
 
-## Ollama - Install [Ollama](https://ollama.ai/download). Follow the instructions and install Ollama locally. Run the Llama 2 7B with the command 'ollama run llama2' to serve Llama 2 on port 11434
+```
+make -f Makefile
+```
 
-##### Llama Index
-##### Langchain
-##### ChromaDB
+in the root directory to set up the environment
+
+#### Install the Python packages 
+
+```
+pip install -r requirements.txt 
+```
+
+Ollama - Install [Ollama](https://ollama.ai/download). Follow the instructions and install Ollama locally. Run the Llama 2 7B with the command 'ollama run llama2' to serve Llama 2 on port 11434
+
+Llama Index - Indexing and Vector Storage library
+Langchain
+ChromaDB - Vector Database
