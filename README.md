@@ -18,7 +18,14 @@ in the root directory to set up the environment
 pip install -r requirements.txt 
 ```
 
-Ollama - Install [Ollama](https://ollama.ai/download). Follow the instructions and install Ollama locally. Run the Llama 2 7B with the command 'ollama run llama2' to serve Llama 2 on port 11434
+#### Ollama 
+
+Install [Ollama](https://ollama.ai/download). Follow the instructions and install Ollama locally. Run the Llama 2 7B with the command 
+
+```
+ollama run llama2
+```
+to serve Llama 2 on port 11434
 
 Llama Index - Indexing and Vector Storage library
 Langchain
