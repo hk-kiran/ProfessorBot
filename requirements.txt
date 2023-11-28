@@ -2,8 +2,11 @@ transformers
 sentence-transformers
 openai
 llama-index
+llama-hub
 langchain
 chromadb
 pypdf
 torch
+torchvision
 python-dotenv
+python-pptx
