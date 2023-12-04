@@ -3,6 +3,7 @@ sentence-transformers
 openai
 llama-index
 llama-hub
+ragas
 langchain
 chromadb
 pypdf
