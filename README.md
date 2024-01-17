@@ -1,3 +1,5 @@
+Production level implementation: https://github.com/hk-kiran/multiinstancellm
+
 # Welcome to our CS205 Final Project!
 ## This project will walk you through one of the hottest areas of Computer Science today - LLMs!
 ### To start with, we will introduce HuggingFace Transformers library, and how to make use of it to generate text from a prompt. We will explore some of the important concepts behind LLMs like embeddings. 
